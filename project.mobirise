@@ -26,7 +26,11 @@
     },
     "versionFirst": "4.3.4",
     "uniqCompNum": 27,
-    "versionPublish": "4.3.4"
+    "versionPublish": "4.3.4",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -61,7 +65,7 @@
           },
           "title": "<br>PESQUISA &nbsp;<br>ACADÊMICA<br>UNINOVE<br>",
           "text": "<br><b> \" A IMPORTÂNCIA DA ESTRATÉGIA NA LOGÍSTICA DE DISTRIBUIÇÃO DO </b><br><b>E-COMMERCE \"&nbsp;</b><b><br></b>Clique no botão abaixo para responder pesquisa acadêmica, levará cerca de 3 minutos para responder. Sua colaboração é muito importante para nós :)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLIQUE AQUI PARA COLABORAR COM A PESQUISA</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://goo.gl/forms/jKmkxDu7dWqW2BQu2\" data-toolbar=\"-mbrBtnMove\">CLIQUE AQUI PARA COLABORAR COM A PESQUISA</a> ",
           "_tags": [
             "Theme"
           ],
@@ -207,26 +211,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a1-daiana-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-10-29-at-21.32.39-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-10-30-at-09.36.36-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -367,8 +380,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Endereço:</strong><br>Rua Vergueiro, Nº &nbsp;2015/206 , Liberdade, São Paulo - SP<br>Curso Administração / 7ºA<br>5º andar<br>Universidade Nove de Julho<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links&nbsp;</strong></p><ul><li>Site</li><li><a href=\"https://goo.gl/forms/0HIsnsw3NnLFMJ8h2\">Pesquisa acadêmica</a></li></ul>",
+          "text1": "<strong>Endereço:</strong><br>Rua Vergueiro, Nº &nbsp;2015/206 , Liberdade, São Paulo - SP<br>Curso Administração / 7ºA<br>5º andar<br>Universidade Nove de Julho<br><br><br><br><br><br><br><i>Todos os direitos reservados © 2017.<br></i><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links&nbsp;</strong></p><ul><li><a href=\"https://goo.gl/forms/0HIsnsw3NnLFMJ8h2\">Pesquisa acadêmica</a></li></ul>",
           "_tags": [
             "Theme"
           ],
