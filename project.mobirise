@@ -374,13 +374,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "RUA VERGUEIRO, 205\n",
-              "placeId": "ChIJAWskf6RZzpQRZu8m7S68aVQ",
+              "address": "Rua Vergueiro, 235- Liberdade",
+              "placeId": "ChIJreZ0E8VbzpQRJzzPpQ5Fgt4",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Endereço:</strong><br>Rua Vergueiro, Nº &nbsp;205/206 , Liberdade, São Paulo - SP<br>Curso Administração / 7ºA<br>5º andar<br>Universidade Nove de Julho<br><br><br><br><br><i>© 2017&nbsp;</i>Todos os direitos reservados<i>. </i><br><i>Site By Ricardo Brandão<br></i><br>",
+          "text1": "<strong>Endereço:</strong><br>Rua Vergueiro, Nº &nbsp;235/249 , Liberdade, São Paulo - SP<br>Curso Administração / 7ºA<br>5º andar<br>Universidade Nove de Julho<br><br><br><br><br><i>© 2017&nbsp;</i>Todos os direitos reservados<i>. </i><br><i>Site By Ricardo Brandão<br></i><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links&nbsp;</strong></p><ul><li><a href=\"https://ricardobrandao4111.github.io/pesquisauninove/\">Site</a></li><li><a href=\"https://goo.gl/forms/0HIsnsw3NnLFMJ8h2\">Pesquisa acadêmica</a></li></ul>",
           "_tags": [
             "Theme"
