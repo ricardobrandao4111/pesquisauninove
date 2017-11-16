@@ -65,7 +65,7 @@
           },
           "title": "<br>PESQUISA &nbsp;<br>ACADÊMICA<br>UNINOVE<br>",
           "text": "<br><b> \" A IMPORTÂNCIA DA ESTRATÉGIA NA LOGÍSTICA DE DISTRIBUIÇÃO DO </b><br><b>E-COMMERCE \"&nbsp;</b><b><br></b>Clique no botão abaixo para responder pesquisa acadêmica, levará cerca de 3 minutos para responder. Sua colaboração é muito importante para nós :)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://goo.gl/forms/jKmkxDu7dWqW2BQu2\" data-toolbar=\"-mbrBtnMove\">CLIQUE AQUI PARA COLABORAR COM A PESQUISA</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://goo.gl/forms/U5D6UCyZMAH28sdH3\" data-toolbar=\"-mbrBtnMove\">CLIQUE AQUI PARA COLABORAR COM A PESQUISA</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -456,7 +456,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-f\">OBJETIVO &nbsp;DA &nbsp;PESQUISA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-p\" aria-expanded=\"false\">EQUIPE &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://goo.gl/forms/jKmkxDu7dWqW2BQu2\">RESPONDER &nbsp;PESQUISA</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-f\">OBJETIVO &nbsp;DA &nbsp;PESQUISA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-p\" aria-expanded=\"false\">EQUIPE &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://goo.gl/forms/U5D6UCyZMAH28sdH3\">RESPONDER &nbsp;PESQUISA</a></li>",
           "logo": {
             "image": {
               "active": true,
